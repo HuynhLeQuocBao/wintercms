@@ -1,6 +1,7 @@
 {
     "devDependencies": {
-        "laravel-mix": "^6.0.41"
+        "laravel-mix": "^6.0.41",
+        "tailwindcss": "^3.4.10"
     },
     "workspaces": {
         "packages": [
